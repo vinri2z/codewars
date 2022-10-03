@@ -1,4 +1,4 @@
-from math_expr import calc
+from math_expr.main import calc
 
 
 def run_tests(expr: str):
